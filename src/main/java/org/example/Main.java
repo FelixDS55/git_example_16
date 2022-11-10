@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello QA Guru!");
         System.out.println("My name is...");
+        System.out.println("Конфликт");
 
     }
 }
